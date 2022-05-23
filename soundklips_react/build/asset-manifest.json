@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0bcf53b1.chunk.css",
+    "main.js": "/static/js/main.25d1e9ee.chunk.js",
+    "main.js.map": "/static/js/main.25d1e9ee.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.10469af9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.10469af9.js.map",
+    "static/js/2.d84d3a43.chunk.js": "/static/js/2.d84d3a43.chunk.js",
+    "static/js/2.d84d3a43.chunk.js.map": "/static/js/2.d84d3a43.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0bcf53b1.chunk.css.map": "/static/css/main.0bcf53b1.chunk.css.map",
+    "static/js/2.d84d3a43.chunk.js.LICENSE.txt": "/static/js/2.d84d3a43.chunk.js.LICENSE.txt",
+    "static/media/Chase.0d8428ae.mp3": "/static/media/Chase.0d8428ae.mp3",
+    "static/media/DAW-Image.e75e4dbe.svg": "/static/media/DAW-Image.e75e4dbe.svg",
+    "static/media/EmailSent.a5a41f99.svg": "/static/media/EmailSent.a5a41f99.svg",
+    "static/media/LinearBufferStill.8241237c.svg": "/static/media/LinearBufferStill.8241237c.svg",
+    "static/media/LoginSidePanelBg.a2ecbdaa.svg": "/static/media/LoginSidePanelBg.a2ecbdaa.svg",
+    "static/media/SKLogoFullNew.5cd970e6.svg": "/static/media/SKLogoFullNew.5cd970e6.svg",
+    "static/media/SKLogoFullNewDark.4912e778.svg": "/static/media/SKLogoFullNewDark.4912e778.svg",
+    "static/media/SKLogoFullNotLevel.73be9e78.svg": "/static/media/SKLogoFullNotLevel.73be9e78.svg",
+    "static/media/SKLogoFullNotLevelDark.4a7d2b30.svg": "/static/media/SKLogoFullNotLevelDark.4a7d2b30.svg",
+    "static/media/SplashEmpty.d85a8286.svg": "/static/media/SplashEmpty.d85a8286.svg",
+    "static/media/audioUploadBg.09e6c56c.svg": "/static/media/audioUploadBg.09e6c56c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10469af9.js",
+    "static/js/2.d84d3a43.chunk.js",
+    "static/css/main.0bcf53b1.chunk.css",
+    "static/js/main.25d1e9ee.chunk.js"
+  ]
+}
